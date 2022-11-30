@@ -3,3 +3,4 @@ AS连接github进行远程提交
 2. 配置本地仓库 git——》 cerate directory
 3. git add
 4. git commit
+5. 输入github 账号和密码
