@@ -1,0 +1,5 @@
+AS连接github进行远程提交
+1. 终端下载git工具并配置在AS上：AS——》preference ——》 git
+2. 配置本地仓库 git——》 cerate directory
+3. git add
+4. git commit
