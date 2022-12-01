@@ -3,4 +3,6 @@ AS连接github进行远程提交
 2. 配置本地仓库 git——》 cerate directory
 3. git add
 4. git commit
-5. 输入github 账号和密码
+5. push 到 github
+ 5.1 检查配置 git config --list  检查name和email是否配置完成
+ 5.2 git push 操作
